@@ -5,6 +5,9 @@ Admins can create and assign bugs, while users can view and complete assigned bu
 
 This project focuses on **clean backend architecture, security, and performance testing**, making it suitable for real-world use.
 
+## 🎥 Demo Video
+👉 [Click here to watch the demo video](https://drive.google.com/drive/u/2/folders/1Ko4zceLHxNtbDJ2-9E1jYVdQDrnBPLmy)
+
 ## 🚀 Features
 
 ### 🔐 Authentication & Authorization
@@ -122,8 +125,6 @@ These results serve as a **baseline** for future optimizations using Redis and K
 ### Mark Bugs as Completed (User Side) Page
 <img width="1322" height="615" alt="Users Marks Bug as Completed Page" src="https://github.com/user-attachments/assets/c56ec6f9-0e88-4d37-a751-0b41055df119" />
 
-## 🎥 Demo Video
-👉 [Click here to watch the demo video](https://drive.google.com/drive/u/2/folders/1Ko4zceLHxNtbDJ2-9E1jYVdQDrnBPLmy)
 
 
 
