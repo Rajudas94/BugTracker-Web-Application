@@ -125,6 +125,9 @@ These results serve as a **baseline** for future optimizations using Redis and K
 ### Mark Bugs as Completed (User Side) Page
 <img width="1322" height="615" alt="Users Marks Bug as Completed Page" src="https://github.com/user-attachments/assets/c56ec6f9-0e88-4d37-a751-0b41055df119" />
 
+## 👨🏻‍💻 Developed and maintained By
+**Raju Das** | Backend Engineer.
+
 
 
 
